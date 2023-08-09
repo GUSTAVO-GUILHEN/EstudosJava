@@ -1,4 +1,4 @@
-package application;
+package br.sintaxe.course;
 
 import java.util.Locale;
 import java.util.Scanner;
